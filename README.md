@@ -65,7 +65,6 @@ node_filesystem_avail_bytes{mountpoint="/",fstype!~"tmpfs|devtmpfs|overlay|squas
 
 2.В качестве решения задания приведите листинг этого файла.
 
-### Ответ.
 
 
 
