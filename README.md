@@ -58,8 +58,14 @@ node_filesystem_avail_bytes{mountpoint="/",fstype!~"tmpfs|devtmpfs|overlay|squas
 
 ### Ответ.
 
+<img width="1280" height="800" alt="Скрин3" src="https://github.com/user-attachments/assets/c78e51ec-fe3b-41cb-80ff-03e3fe041cad" />
 
+### Задание 4.
+1.Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 
+2.В качестве решения задания приведите листинг этого файла.
+
+### Ответ.
 
 
 
